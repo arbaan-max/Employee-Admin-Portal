@@ -4,7 +4,6 @@ using EmployeeAdmin2.Model.Entities;
 using Microsoft.AspNetCore.JsonPatch.Exceptions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 
 namespace EmployeeAdmin2.Controllers
 {
